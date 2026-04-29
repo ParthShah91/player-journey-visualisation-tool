@@ -70,11 +70,12 @@ Processing steps:
     Individual match JSON files
 
 ## Output format:
-- Each match JSON contains:
-   map_id
-   players
-   path (x, y, timestamp)
-   events (type, x, y, timestamp)
+Each match JSON contains:
+
+- `map_id`
+- `players`
+  - `path` (x, y, timestamp)
+  - `events` (type, x, y, timestamp)
 
 ## Data Requirements
 Place files in:
