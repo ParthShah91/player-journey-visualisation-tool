@@ -60,16 +60,16 @@ root/
 ## Data Pipeline
 Raw data is provided as parquet files.
 Processing steps:
-• Read parquet files
-• Extract:
+- Read parquet files
+- Extract:
     player paths
     events
-• Generate:
+- Generate:
     match_index.json
     Individual match JSON files
 
 ## Output format:
-• Each match JSON contains:
+- Each match JSON contains:
    map_id
    players
    path (x, y, timestamp)
@@ -77,30 +77,30 @@ Processing steps:
 
 ## Data Requirements
 Place files in:
-  • Match data: frontend/public/data/
-  • Map images: frontend/public/maps/
+  - Match data: frontend/public/data/
+  - Map images: frontend/public/maps/
 
 ## How to Use
-• Select a map
-• Select a match
-• Use the timeline slider to replay events
-• Adjust opacity if paths are hard to see
-• Refer to legend for event meanings
+- Select a map
+- Select a match
+- Use the timeline slider to replay events
+- Adjust opacity if paths are hard to see
+- Refer to legend for event meanings
 
 ## Known Limitations
-• Dense matches may look cluttered
-• No player-level filtering yet
-• Canvas rendering depends on image load timing
-• No hover tooltips for events
+- Dense matches may look cluttered
+- No player-level filtering yet
+- Canvas rendering depends on image load timing
+- No hover tooltips for events
 
 ## Future Improvements
-• Start and end markers
-• Highlight current player position
-• Player filtering
-• Tooltips on hover
-• Performance optimization for large datasets
+- Start and end markers
+- Highlight current player position
+- Player filtering
+- Tooltips on hover
+- Performance optimization for large datasets
 
 ## Tech Stack
-• React (Vite)
-• HTML Canvas
-• JavaScript
+- React (Vite)
+- HTML Canvas
+- JavaScript
