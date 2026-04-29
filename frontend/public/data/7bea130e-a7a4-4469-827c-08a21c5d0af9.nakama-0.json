@@ -1,0 +1,1 @@
+{"match_id": "7bea130e-a7a4-4469-827c-08a21c5d0af9.nakama-0", "map_id": "Lockdown", "players": [{"user_id": "b3340cc5-c9fa-4108-b56d-0728bc978a22", "is_bot": false, "path": [{"x": 383, "y": 424, "ts": 1770756727}], "events": [{"type": "BotKilled", "x": 446, "y": 457, "ts": 1770756812}]}]}

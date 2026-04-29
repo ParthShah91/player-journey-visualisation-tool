@@ -1,0 +1,1 @@
+{"match_id": "d72c3b21-af6c-4975-8b18-08e8741b73bd.nakama-0", "map_id": "AmbroseValley", "players": [{"user_id": "73cc8b04-c32c-427d-b8f7-e75c4b03450c", "is_bot": false, "path": [{"x": 78, "y": 890, "ts": 1770877741}], "events": [{"type": "BotKilled", "x": 193, "y": 846, "ts": 1770877813}]}]}

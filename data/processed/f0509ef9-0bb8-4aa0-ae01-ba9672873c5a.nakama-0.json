@@ -1,0 +1,1 @@
+{"match_id": "f0509ef9-0bb8-4aa0-ae01-ba9672873c5a.nakama-0", "map_id": "GrandRift", "players": [{"user_id": "db454a35-d216-4379-b140-2931160c7d8a", "is_bot": false, "path": [{"x": 319, "y": 387, "ts": 1770838803}], "events": [{"type": "BotKilled", "x": 332, "y": 355, "ts": 1770838831}]}]}

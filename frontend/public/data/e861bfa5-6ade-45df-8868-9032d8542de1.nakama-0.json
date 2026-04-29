@@ -1,0 +1,1 @@
+{"match_id": "e861bfa5-6ade-45df-8868-9032d8542de1.nakama-0", "map_id": "Lockdown", "players": [{"user_id": "b5b5b6be-cfad-40a2-acbf-413d60ac3a80", "is_bot": false, "path": [{"x": 332, "y": 773, "ts": 1770877952}, {"x": 292, "y": 678, "ts": 1770878063}], "events": [{"type": "Loot", "x": 332, "y": 634, "ts": 1770878094}, {"type": "Loot", "x": 332, "y": 634, "ts": 1770878095}]}]}
