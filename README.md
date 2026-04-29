@@ -37,6 +37,7 @@ https://playerjourneyvisualisationtool.vercel.app/
 ---
 
 ##  Project Structure
+```
 root/
 ├── data/
 │ ├── raw/ # Original parquet files
@@ -52,7 +53,7 @@ root/
 │ │ │ └── MapCanvas.jsx
 │ │ ├── App.jsx
 │ ├── package.json
-
+```
 
 ---
 
